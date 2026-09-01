@@ -1,6 +1,6 @@
 # accountsync
 
-[![CI](https://github.com/example-org/accountsync/actions/workflows/ci.yml/badge.svg)](https://github.com/example-org/accountsync/actions/workflows/ci.yml)
+[![CI](https://github.com/Cheukting/audit-ai-workshop/actions/workflows/ci.yml/badge.svg)](https://github.com/example-org/accountsync/actions/workflows/ci.yml)
 [![Python](https://img.shields.io/badge/python-3.11%20%7C%203.12%20%7C%203.13%20%7C%203.14-blue)](https://pypi.org/project/accountsync/)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
