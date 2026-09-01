@@ -1,3 +1,8 @@
+> [!NOTE]
+> This is a mock project for the **Audit and evaluate AI Generated Code** workshop.
+>
+> [Workshop materials and instructions for hands-on exercises are here](https://canva.link/clnbccfyf7e1uc6).
+
 # accountsync
 
 [![CI](https://github.com/Cheukting/audit-ai-workshop/actions/workflows/ci.yml/badge.svg)](https://github.com/example-org/accountsync/actions/workflows/ci.yml)
