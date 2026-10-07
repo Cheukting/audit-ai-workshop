@@ -2,6 +2,8 @@
 > This is a mock project for the **Audit and evaluate AI Generated Code** workshop.
 >
 > [Workshop materials and instructions for hands-on exercises are here](https://canva.link/clnbccfyf7e1uc6).
+>
+> A finished example with every exercise applied: https://github.com/Cheukting/audit-ready-python-template
 
 # accountsync
 
